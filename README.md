@@ -12,6 +12,12 @@ Desarrollo de una interfaz gráfica que simula un desfragmentador de disco duro 
 De un inicio se muestra un tablero con los fragmentos de distintos colores y números todos ordenados aleatoriamente, la simulación muestra como se van ordenando cada uno de los fragmentos por color y número. 
 En la Figura se muestra el tablero de inicio:
 
+![](https://github.com/Areli-Anzures/desfragmentador-disco-duro/blob/main/imagenes/fig1.png)
+
 En la Figura se muestra el tablero mientras se ordenan los fragmentos:
 
+![](https://github.com/Areli-Anzures/desfragmentador-disco-duro/blob/main/imagenes/fig2.png)
+
 En la Figura se muestra el tablero final:
+
+![](https://github.com/Areli-Anzures/desfragmentador-disco-duro/blob/main/imagenes/fig3.png)
